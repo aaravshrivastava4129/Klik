@@ -124,7 +124,6 @@ https://github.com/lemmingDev/ESP32-BLE-Gamepad
 
 # Prototype
 
-[![Watch the video](https://youtube.com)](https://youtu.be/MfQvDPFBN7g)
-
 <img width="40%" src="demo/prototype.png">
 
+For demo video click <a href="https://youtu.be/MfQvDPFBN7g">here</a>
